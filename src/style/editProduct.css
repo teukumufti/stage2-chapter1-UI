@@ -1,0 +1,74 @@
+.title-productEdit  {
+    color: #fff;
+    margin-top: 40px;
+    margin-left: 80px;
+    font-weight: bold;
+}
+
+.form-upload {
+    width: 88%;
+    margin-left: 80px;
+    margin-top: 60px;
+    /* border: 0px solid;
+    color: #56C05A; */
+}
+
+.upload-img {
+    box-shadow: none !important;
+    background: #151515 !important;
+    border: 0px solid;
+    color: white !important;;
+}
+
+.productEdit-form {
+    width: 88%;
+    margin-top: 40px;
+    margin-left: 82px;
+    background: #D2D2D240 !important;
+    border: 1px solid #BCBCBC;
+    color: white !important;
+    box-shadow: none !important;
+}
+
+
+.productText-form {
+    background: #D2D2D240 !important;
+    border: 1px solid #BCBCBC;
+    box-shadow: none !important;
+    color: white !important;
+}.productText-input {
+    width: 88%;
+    margin-top: 30px;
+    margin-left: 82px;
+   
+}
+
+
+.productPrice-form {
+    width: 88%;
+    margin-top: 30px;
+    margin-left: 82px;
+    background: #D2D2D240 !important;
+    border: 1px solid #BCBCBC;
+    color: white !important;
+    box-shadow: none !important;
+}
+.productStock-form {
+    width: 88%;
+    margin-top: 30px;
+    margin-left: 82px;
+    background: #D2D2D240 !important;
+    border: 1px solid #BCBCBC;
+    color: white !important;
+    box-shadow: none !important;
+}
+
+.categoryEdit-button {
+    margin-top: 70px;
+    margin-left: 82px;
+    width: 88%;
+    background: #56C05A  !important;
+    border: none;
+    color: white !important;
+    box-shadow: none !important;
+}

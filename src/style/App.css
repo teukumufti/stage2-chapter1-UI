@@ -1,0 +1,17 @@
+body {
+    background-color: #151515;
+    padding-bottom: 8%;
+}
+
+.btn-primary {
+    box-shadow: none !important;
+}
+
+
+
+/* .Navbar {
+
+    /* position: fixed;
+    z-index: 1;
+    top: 0; */
+

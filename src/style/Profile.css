@@ -1,0 +1,38 @@
+/* col 1 */
+.title-profile {
+    color: #F74D4D;
+    margin-top: 40px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.card-profile {
+    width: 105%;
+    background-color: #151515;
+    margin-left: 22px;
+    border: none;
+}
+
+.img-profile {
+    margin-top: 30px;
+    width: 290px;
+    height: auto;
+}
+
+.style-1 {
+    display: flex;
+}
+
+.text-profile{
+    color: #F74D4D;
+    margin-top: 28px;
+    margin-left: 20px;
+} .span-profile {
+    text-align: justify;
+    margin-left: 22px;  
+}.p-profile {
+    text-align: justify;
+    color: #fff;    
+    font-size: 13px;
+    margin-left: 20px;  
+}

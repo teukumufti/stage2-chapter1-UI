@@ -1,0 +1,50 @@
+.style-card {
+    width: 30%;
+    margin-top: 40px;
+    background: #151515;
+    border: 0px solid;
+}
+
+.style-card2 { 
+    width: 30%;
+    margin-top: 20px;
+    background: #151515;
+    border: 0px solid;
+}
+.vertical-line {
+    margin-left: 300px;
+    border-left: 1px solid #6A6A6A4D;
+    height: 610px;
+    bottom: 1px;
+    z-index: 1;
+    position: fixed;
+}
+
+.client-profile {
+    margin-top: 5px;
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+
+.chat-card {
+    display: flex;
+}
+
+.admin-chat {
+    margin-left: 12px;
+}
+.message {
+    width: 70%;
+    margin-left: 12px;
+    position: fixed;
+    bottom: 0px;
+    margin-bottom: 20px;
+    border-radius: 0px;
+    background: #ABABAB26 !important;
+    border: none;
+    color: white !important;
+    box-shadow: none !important;
+
+}

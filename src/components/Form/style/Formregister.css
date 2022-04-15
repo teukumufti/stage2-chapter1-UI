@@ -1,0 +1,49 @@
+/* form  */
+.formRegis {
+    background-color: #181818;
+    border-radius: 5px;
+    padding: 20px 30px;
+    width: 350px;
+    margin-left: 110px;
+    margin-top: 150px;
+    height: 360px;
+    box-shadow: 1px 1px 1px #181818;
+}
+
+.form-label {
+    padding-bottom: 0px;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+
+.button {
+    width: 290px;
+    background: #F74D4D;
+    border: 0px solid 
+}
+.active, .button:hover {
+    background-color: #0b0b0b;
+    color: white;
+  }
+
+.form-email {
+    margin-top: 20px;
+    border: 0px solid #BCBCBC;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.form-password {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border: 0px solid #BCBCBC;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.form-input {
+    background: rgba(210, 210, 210, 0.25);
+}
+

@@ -1,0 +1,54 @@
+.card-transaction {    
+    margin-top: 40px;
+    margin-left: 90px;
+    border-radius: 2px;
+    background: #303030;
+
+}
+
+.product-transaction {
+    display: flex;
+    justify-content: space-between;
+}
+
+.span-display {
+    display: flex;
+}
+
+.title-transaction {
+    color: #F74D4D;
+    margin-top: 40px;
+    font-weight: bold;
+    margin-left: 80px;
+}
+
+.img-transaction {
+    width: 115px;
+    padding: 5px 5px;
+    height: auto;
+}
+
+.icon-transaction {
+    width: 80px;
+    margin-top: 28px;
+    margin-right: 20px;
+}h6 {
+    color: #F74D4D;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+.span-cardTransaction {
+    color: #F74D4D;
+    font-size: 10px;
+}
+
+.span-subTotal {
+    font-weight: bold;
+    font-size: 13px;
+    margin-left: 5px; 
+}
+
+.span-price {
+    margin-left: 5px; 
+    font-size: 11px;
+}

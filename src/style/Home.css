@@ -1,0 +1,29 @@
+.Card {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.styleCard1 {
+    width: 240px;
+    height: 430px;
+    margin-top: 30px;
+    margin-left: 70px;
+    background-color: #212121;
+    color: white;
+}
+
+.styleCard2 {
+    width: 240px;
+    height: 430px;
+    margin-top: 30px;
+    margin-left: 20px;
+    background-color: #212121;
+    color: white;
+}
+
+.title-home {
+    font-weight: bold;
+    color: #F74D4D;
+    margin-top: 40px;
+    margin-left: 70px;
+}
